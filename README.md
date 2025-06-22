@@ -5,14 +5,13 @@ A modern, interactive bottom sheet component built with React, TypeScript, Vite,
 ## 🛠️ Prerequisites
 - **Node.js** (v18 or newer recommended)
 - **npm** (v9 or newer) or **bun** (if you prefer)
-
 ---
 
 ## ⚡ Getting Started
 
 ### 1. Clone the repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/magname/Custom-Bottom-Slider.git
 cd springy-sheet-motion
 ```
 
@@ -20,10 +19,6 @@ cd springy-sheet-motion
 Using npm:
 ```sh
 npm install
-```
-Or using bun:
-```sh
-bun install
 ```
 ### 3. Start the development server
 ```sh
